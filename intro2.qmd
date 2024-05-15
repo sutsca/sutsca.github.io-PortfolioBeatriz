@@ -1,0 +1,8 @@
+# Trabalhos Faculdade
+
+Este repositório foi criado para organizar e compartilhar os trabalhos desenvolvidos ao longo do meu curso de Sistemas de Informação. Aqui, você encontrará uma coleção de projetos acadêmicos que refletem meu aprendizado e progresso nas diversas disciplinas do curso.
+
+## Objetivo do Repositório
+
+O objetivo principal deste repositório é fornecer um espaço centralizado para armazenar e divulgar os trabalhos acadêmicos realizados durante minha formação. Ele serve tanto como um portfólio para futuras oportunidades profissionais quanto como um recurso educacional para outros estudantes.
+

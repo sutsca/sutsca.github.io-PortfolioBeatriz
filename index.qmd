@@ -1,0 +1,29 @@
+# Quem sou eu {.unnumbered}
+
+---
+title: "Beatriz Salles Portfólio"
+about:
+  template: jolla
+  image: eu.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sutsca
+      
+---
+
+Sou a Beatriz, tenho 24 anos e estudo para entrar na area da tecnologia.
+
+## Formação
+
+Centro Universitário Adventista de São Paulo - Sistemas de informação | 2024 - 2028 | Hortôlandia , SP <p> <p>
+Cotuca - Desenvolvimento de sistemas | 2021 - 2023 | Campinas, SP <p>
+Universidade Positivo - Jogos Digitais | 2019 - 2021 | Curitiba, PR <p>
+
+
+
+## Experiências
+
+Unicamp | Estagário em desenvolvimento de sistemas | Junho 2024 - Junho 2025
+
+Confibra | Jovem aprendiz - RH | Fev 2022 - Abril 2023

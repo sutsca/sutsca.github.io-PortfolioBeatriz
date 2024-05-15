@@ -1,0 +1,47 @@
+# Summario
+
+# Programa Quarto - Sumário
+
+Bem-vindo ao repositório do Programa Quarto! Este espaço foi criado para organizar e compartilhar projetos desenvolvidos durante meu curso de Sistemas de Informação, bem como projetos pessoais e explicações sobre os códigos, complementando minha formação e interesses na área de tecnologia.
+
+## Sobre o Programa Quarto
+
+O **Programa Quarto** é um repositório dedicado à divulgação de conhecimento através de slides e apresentações detalhadas. Aqui, você encontrará materiais que cobrem diversos tópicos estudados ao longo do curso de Sistemas de Informação e projetos pessoais, proporcionando uma visão ampla das minhas atividades acadêmicas e interesses pessoais.
+
+## Estrutura do Repositório
+
+1. **Projetos Acadêmicos**
+    - Projetos desenvolvidos como parte das disciplinas do curso de Sistemas de Informação.
+    - Códigos-fonte, relatórios e apresentações relacionadas a cada projeto.
+
+2. **Projetos Pessoais**
+    - Iniciativas próprias que exploram áreas de interesse, como desenvolvimento web, ciência de dados, automação, entre outros.
+    - Códigos-fonte e documentação detalhada de cada projeto.
+
+3. **Slides e Apresentações**
+    - Materiais de apresentação que detalham os conceitos, metodologias e resultados obtidos em cada projeto.
+    - Arquivos de slides organizados para fácil acesso e visualização.
+
+## Objetivos
+
+- **Compartilhar Conhecimento:** Divulgar os conhecimentos adquiridos durante o curso e em projetos pessoais de forma acessível e estruturada.
+- **Documentar Projetos:** Manter um registro detalhado dos projetos desenvolvidos, incluindo código-fonte, relatórios e apresentações.
+- **Facilitar Colaborações:** Criar um espaço onde outros estudantes e profissionais possam acessar, aprender e colaborar em projetos.
+
+## Como Utilizar Este Repositório
+
+- **Explorar Projetos:** Navegue pelas pastas de projetos acadêmicos e pessoais para encontrar detalhes específicos sobre cada iniciativa.
+- **Visualizar Slides:** Acesse a pasta de slides e apresentações para visualizar materiais educativos e informativos sobre diversos tópicos.
+- **Contribuir:** Se você tiver interesse em colaborar ou discutir qualquer um dos projetos, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente.
+
+## Contato
+
+Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Se você tem interesse em discutir ideias, colaborar em projetos ou simplesmente trocar conhecimentos, sinta-se à vontade para entrar em contato.
+
+- 📫 **Email:** **beatrizsalles123@gmail.com**
+- 💼 **LinkedIn:** [Beatriz Salles](https://www.linkedin.com/in/beatrizsalles2902)
+
+---
+
+Agradeço por visitar o Programa Quarto. Fique à vontade para explorar e utilizar os materiais disponíveis!
+

@@ -1,0 +1,187 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Beatriz Salles Portfólio",
+    "section": "",
+    "text": "Quem sou eu\nSou a Beatriz, tenho 24 anos e estudo para entrar na area da tecnologia.",
+    "crumbs": [
+      "Beatriz Salles Portfólio"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introdução",
+    "section": "",
+    "text": "1.0.1 Olá! 👋\nBem-vindo(a) ao meu perfil no GitHub!\nSou Beatriz Salles Pereira, tenho 24 anos e estou cursando Sistemas de Informação. Minha paixão pela tecnologia e pela programação me motiva a sempre buscar novos desafios e aprimorar minhas habilidades.\n\n\n1.0.2 Sobre Mim\n\n🎓 Estudante de Sistemas de Informação: Estou adquirindo conhecimentos sólidos em desenvolvimento de software, banco de dados, redes de computadores e muito mais.\n💻 Desenvolvedor em Formação: Tenho experiência em diversas linguagens de programação como Python, Java, JavaScript, e estou sempre explorando novas tecnologias.\n🔧 Projetos e Colaborações: Gosto de trabalhar em projetos práticos que me permitem aplicar o que aprendo em sala de aula. Confira meus repositórios para ver meus projetos mais recentes!\n\n\n\n1.0.3 O Que Você Pode Encontrar Aqui\n\n📂 Projetos Acadêmicos: Repositórios com códigos e relatórios de projetos realizados durante meu curso postados no meu github: https://github.com/sutsca\n📊 Slides e Apresentações: Materiais de apresentações e projetos, como este meu portólio.\n💡 Projetos Pessoais: Iniciativas próprias onde exploro áreas de interesse pessoal, como desenvolvimento web e ciência de dados.\n\n\n\n1.0.4 Vamos Conectar!\nEstou sempre aberto a novas oportunidades de aprendizado e colaboração. Se você tem interesse em discutir ideias, colaborar em projetos ou simplesmente trocar conhecimentos, sinta-se à vontade para entrar em contato.\n\n📫 Email: beatrizsalles123@gmail.com\n💼 LinkedIn: Beatriz Salles",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summario",
+    "section": "",
+    "text": "3 Programa Quarto - Sumário\nBem-vindo ao repositório do Programa Quarto! Este espaço foi criado para organizar e compartilhar projetos desenvolvidos durante meu curso de Sistemas de Informação, bem como projetos pessoais e explicações sobre os códigos, complementando minha formação e interesses na área de tecnologia.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summario</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "trab1.html",
+    "href": "trab1.html",
+    "title": "3  Apresentação sobre o código de taxa metabólica basal (TMB)",
+    "section": "",
+    "text": "4 Calculadora de TMB: Explicação do Código",
+    "crumbs": [
+      "Trabalhos acadêmicos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Apresentação sobre o código de taxa metabólica basal (TMB)</span>"
+    ]
+  },
+  {
+    "objectID": "trab1.html#função-calcular_tmb",
+    "href": "trab1.html#função-calcular_tmb",
+    "title": "3  Apresentação sobre o código de taxa metabólica basal (TMB)",
+    "section": "4.1 Função calcular_tmb",
+    "text": "4.1 Função calcular_tmb\n\ndef calcular_tmb(peso, altura, idade, sexo):\n\nif sexo == “masculino”:\n\ntmb = 66 + (13.7 * peso) + (5 * altura) - (6.8 * idade)\n\nelif sexo == “feminino”:\n\ntmb = 665 + (9.6 * peso) + (1.8 * altura) - (4.7 * idade)\n\nelse:\n\ntmb = None\n\nprint(“Sexo não reconhecido.”)\n\nreturn tmb\n\n\n\nA função calcular_tmb calcula a Taxa de Metabolismo Basal (TMB) usando a equação de Harris-Benedict.",
+    "crumbs": [
+      "Trabalhos acadêmicos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Apresentação sobre o código de taxa metabólica basal (TMB)</span>"
+    ]
+  },
+  {
+    "objectID": "trab1.html#função-calcular_macronutrientes",
+    "href": "trab1.html#função-calcular_macronutrientes",
+    "title": "3  Apresentação sobre o código de taxa metabólica basal (TMB)",
+    "section": "4.2 Função calcular_macronutrientes",
+    "text": "4.2 Função calcular_macronutrientes\ndef calcular_macronutrientes(peso):\n\nprot = 2 * peso\n\ncarb = 3 * peso\n\ngord = 0.5 * peso\n\nreturn prot, carb, gord\n\n\nA função calcular_macronutrientes calcula a quantidade de proteína, carboidratos e gorduras em gramas com base no peso do usuário.",
+    "crumbs": [
+      "Trabalhos acadêmicos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Apresentação sobre o código de taxa metabólica basal (TMB)</span>"
+    ]
+  },
+  {
+    "objectID": "trab1.html#função-calcular_gasto_calorico",
+    "href": "trab1.html#função-calcular_gasto_calorico",
+    "title": "3  Apresentação sobre o código de taxa metabólica basal (TMB)",
+    "section": "4.3 Função calcular_gasto_calorico",
+    "text": "4.3 Função calcular_gasto_calorico\n\ndef calcular_gasto_calorico(exercicio, peso, tempo):\n\nif exercicio == 1:\n\nreturn 3.5 * peso * tempo\n\nelif exercicio == 2:\n\nreturn 6 * peso * tempo\n\nelif exercicio == 3:\n\nprint(“Saindo do programa!”)\n\nsys.exit()\n\nelse:\n\nprint(“Exercício não reconhecido.”)\n\nreturn None\n\n\n\nA função calcular_gasto_calorico calcula o gasto calórico com base no tipo de exercício, peso do usuário e tempo de prática.",
+    "crumbs": [
+      "Trabalhos acadêmicos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Apresentação sobre o código de taxa metabólica basal (TMB)</span>"
+    ]
+  },
+  {
+    "objectID": "trab1.html#função-main",
+    "href": "trab1.html#função-main",
+    "title": "3  Apresentação sobre o código de taxa metabólica basal (TMB)",
+    "section": "4.4 Função main",
+    "text": "4.4 Função main\n#Main Vai fazer as perguntas ao usuario\ndef main():\n# Captura de dados do usuário\npeso = float(input(\"Digite seu peso (em kg): \"))\naltura = float(input(\"Digite sua altura (em centimetros): \"))\nidade = float(input(\"Digite sua idade: \"))\nsexo = input(\"Digite seu sexo (masculino/feminino): \").lower()\n\n# Cálculo da TMB\ntmb = calcular_tmb(peso, altura, idade, sexo)\n\nif tmb is not None:\n    # Exibição da TMB\n    print(f\"Sua taxa de metabolismo basal é {tmb:.2f} calorias.\")\n\n    # Cálculo de macronutrientes\n    prot, carb, gord = calcular_macronutrientes(peso)\n    print(f\"Para atender suas necessidades diárias, consuma {prot:.2f}g de proteína, {carb:.2f}g de carboidratos e {gord:.2f}g de gordura.\")\n\n    # Captura de dados de exercício\n    print(\"Digite o número do exercício que você pratica:\")\n    print(\"1 - Musculação média\")\n    print(\"2 - Musculação alta\")\n    print(\"3 - Não pratico nenhum desses exercícios / Sair\")\n    exercicio = int(input(\"Digite o numero do exercício desejado: \"))\n    tempo = float(input(\"Por quanto tempo você pratica essa atividade em horas: \"))\n    gasto_calorico = calcular_gasto_calorico(exercicio, peso, tempo)\n\n    # Exibição do gasto calórico\n    if gasto_calorico is not None:\n        if exercicio == 1:\n            print(f\"Durante {tempo} horas de Musculação média, você queimou {gasto_calorico:.2f} calorias.\")\n        elif exercicio == 2:\n            print(f\"Durante {tempo} horas de Musculação alta, você queimou {gasto_calorico:.2f} calorias.\")\n    else:\n        print(\"Exercício não reconhecido.\")\nelse:\n    print(\"Não foi possível calcular a TMB. Verifique os dados fornecidos.\")\n\n    if __name__ == \"__main__\":\nmain()\n\nNosso código irá fazer perguntas ao usuário relacionado ao seu peso, altura, idade e sexo.\n\nCom base nisso irá calcular sua taxa metabólica basal\n\nRetornando com a quantidade de macronutrientes que você precisa ingerir no dia.",
+    "crumbs": [
+      "Trabalhos acadêmicos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Apresentação sobre o código de taxa metabólica basal (TMB)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#formação",
+    "href": "index.html#formação",
+    "title": "Beatriz Salles Portfólio",
+    "section": "Formação",
+    "text": "Formação\nCentro Universitário Adventista de São Paulo - Sistemas de informação | 2024 - 2028 | Hortôlandia , SP\n\n\nCotuca - Desenvolvimento de sistemas | 2021 - 2023 | Campinas, SP\n\nUniversidade Positivo - Jogos Digitais | 2019 - 2021 | Curitiba, PR",
+    "crumbs": [
+      "Beatriz Salles Portfólio"
+    ]
+  },
+  {
+    "objectID": "index.html#experiencias",
+    "href": "index.html#experiencias",
+    "title": "Beatriz Salles Portfólio",
+    "section": "Experiencias",
+    "text": "Experiencias\nUnicamp | Estagário em desenvolvimento de sistemas | Junho 2024 - Junho 2025\nConfibra | Jovem aprendiz - RH | Fev 2022 - Abril 2023",
+    "crumbs": [
+      "Beatriz Salles Portfólio"
+    ]
+  },
+  {
+    "objectID": "summary.html#sobre-o-programa-quarto",
+    "href": "summary.html#sobre-o-programa-quarto",
+    "title": "2  Summario",
+    "section": "3.1 Sobre o Programa Quarto",
+    "text": "3.1 Sobre o Programa Quarto\nO Programa Quarto é um repositório dedicado à divulgação de conhecimento através de slides e apresentações detalhadas. Aqui, você encontrará materiais que cobrem diversos tópicos estudados ao longo do curso de Sistemas de Informação e projetos pessoais, proporcionando uma visão ampla das minhas atividades acadêmicas e interesses pessoais.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summario</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#estrutura-do-repositório",
+    "href": "summary.html#estrutura-do-repositório",
+    "title": "2  Summario",
+    "section": "3.2 Estrutura do Repositório",
+    "text": "3.2 Estrutura do Repositório\n\nProjetos Acadêmicos\n\nProjetos desenvolvidos como parte das disciplinas do curso de Sistemas de Informação.\nCódigos-fonte, relatórios e apresentações relacionadas a cada projeto.\n\nProjetos Pessoais\n\nIniciativas próprias que exploram áreas de interesse, como desenvolvimento web, ciência de dados, automação, entre outros.\nCódigos-fonte e documentação detalhada de cada projeto.\n\nSlides e Apresentações\n\nMateriais de apresentação que detalham os conceitos, metodologias e resultados obtidos em cada projeto.\nArquivos de slides organizados para fácil acesso e visualização.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summario</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#objetivos",
+    "href": "summary.html#objetivos",
+    "title": "2  Summario",
+    "section": "3.3 Objetivos",
+    "text": "3.3 Objetivos\n\nCompartilhar Conhecimento: Divulgar os conhecimentos adquiridos durante o curso e em projetos pessoais de forma acessível e estruturada.\nDocumentar Projetos: Manter um registro detalhado dos projetos desenvolvidos, incluindo código-fonte, relatórios e apresentações.\nFacilitar Colaborações: Criar um espaço onde outros estudantes e profissionais possam acessar, aprender e colaborar em projetos.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summario</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#como-utilizar-este-repositório",
+    "href": "summary.html#como-utilizar-este-repositório",
+    "title": "2  Summario",
+    "section": "3.4 Como Utilizar Este Repositório",
+    "text": "3.4 Como Utilizar Este Repositório\n\nExplorar Projetos: Navegue pelas pastas de projetos acadêmicos e pessoais para encontrar detalhes específicos sobre cada iniciativa.\nVisualizar Slides: Acesse a pasta de slides e apresentações para visualizar materiais educativos e informativos sobre diversos tópicos.\nContribuir: Se você tiver interesse em colaborar ou discutir qualquer um dos projetos, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summario</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#contato",
+    "href": "summary.html#contato",
+    "title": "2  Summario",
+    "section": "3.5 Contato",
+    "text": "3.5 Contato\nEstou sempre aberto a novas oportunidades de aprendizado e colaboração. Se você tem interesse em discutir ideias, colaborar em projetos ou simplesmente trocar conhecimentos, sinta-se à vontade para entrar em contato.\n\n📫 Email: beatrizsalles123@gmail.com\n💼 LinkedIn: Beatriz Salles\n\n\nAgradeço por visitar o Programa Quarto. Fique à vontade para explorar e utilizar os materiais disponíveis!",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summario</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#experiências",
+    "href": "index.html#experiências",
+    "title": "Beatriz Salles Portfólio",
+    "section": "Experiências",
+    "text": "Experiências\nUnicamp | Estagário em desenvolvimento de sistemas | Junho 2024 - Junho 2025\nConfibra | Jovem aprendiz - RH | Fev 2022 - Abril 2023",
+    "crumbs": [
+      "Beatriz Salles Portfólio"
+    ]
+  },
+  {
+    "objectID": "intro2.html",
+    "href": "intro2.html",
+    "title": "2  Trabalhos Faculdade",
+    "section": "",
+    "text": "2.1 Objetivo do Repositório\nO objetivo principal deste repositório é fornecer um espaço centralizado para armazenar e divulgar os trabalhos acadêmicos realizados durante minha formação. Ele serve tanto como um portfólio para futuras oportunidades profissionais quanto como um recurso educacional para outros estudantes.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Trabalhos Faculdade</span>"
+    ]
+  }
+]

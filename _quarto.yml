@@ -1,0 +1,21 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Potfólio de Beatriz"
+  author: "Beatriz Salles"
+  date: "15/05/2024"
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - intro2.qmd
+    - part: "Trabalhos acadêmicos"
+      chapters: 
+      - trab1.qmd
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
