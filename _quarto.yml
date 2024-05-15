@@ -14,7 +14,6 @@ book:
     - part: "Trabalhos acadêmicos"
       chapters: 
       - trab1.qmd
-      - trab2.html
 format:
   html:
     theme: cosmo
